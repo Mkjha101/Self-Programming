@@ -1,4 +1,6 @@
 #include <stdio.h>
+/* 
+//1
 int main(){
     int B;
     B=100;
@@ -12,3 +14,14 @@ int main(){
     // printf("%d",d);
     return 0;
 }
+*/
+
+/* 
+// 2
+int main(){
+	while(1){
+		;
+	}
+	return 0;
+}
+*/
